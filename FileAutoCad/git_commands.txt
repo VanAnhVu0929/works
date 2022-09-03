@@ -1,0 +1,11 @@
+Chuột phải chọn 'Git Bash here'
+Clone dự án về git clone https://github.com/vananhvu0929/works.git
+--------------
+Mỗi lần làm xong
+Chuột phải chọn 'Git Bash Here'
+git add .
+git commit -m 'update'
+git push origin main
+--------------
+Chuột phải chọn 'Git Bash Here'
+git pull
